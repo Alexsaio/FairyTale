@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FairyTale", "FairyTale\FairyTale.csproj", "{A99221EB-AC2D-46AB-A114-EAE73FFA451C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A99221EB-AC2D-46AB-A114-EAE73FFA451C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A99221EB-AC2D-46AB-A114-EAE73FFA451C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A99221EB-AC2D-46AB-A114-EAE73FFA451C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A99221EB-AC2D-46AB-A114-EAE73FFA451C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40F889A9-C5F0-408A-92A1-42C0CDF416CE}
+	EndGlobalSection
+EndGlobal
