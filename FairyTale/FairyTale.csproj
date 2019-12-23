@@ -52,6 +52,7 @@
     <Compile Include="ITalk.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RandomValue.cs" />
     <Compile Include="StoryTeller.cs" />
     <Compile Include="Wolf.cs" />
   </ItemGroup>
